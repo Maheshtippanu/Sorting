@@ -16,4 +16,3 @@ You can view the available branches in the repository by clicking the link below
 - Insertion Sort
 - Selection Sort
 
-Feel free to explore the code and contribute!
